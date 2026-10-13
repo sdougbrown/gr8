@@ -1,0 +1,3 @@
+mode = "read-only"
+sync_branch = "serve"
+interval = "2m"
